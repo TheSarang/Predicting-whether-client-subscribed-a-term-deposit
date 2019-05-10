@@ -1,4 +1,4 @@
-# Predicting-whether-client-subscribed-a-term-deposit
+# Predicting whether client subscribed a term deposit
 
 ## Table of Contents:
 + [Data Set](#Data_Set) </br>
