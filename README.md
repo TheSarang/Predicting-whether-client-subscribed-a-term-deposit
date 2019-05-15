@@ -35,3 +35,7 @@ y - has the client subscribed a term deposit? (binary: 'yes','no')
 
 ## <a name="Results"></a> Results 
 
+**Naive Bayes:** % accuracy<br>
+**Decision Tree:** % accuracy<br>
+**K Nearest Neighbours:** % accuracy<br>
+ 
