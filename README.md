@@ -37,5 +37,5 @@ y - has the client subscribed a term deposit? (binary: 'yes','no')
 
 **Naive Bayes:** % accuracy<br>
 **Decision Tree:** % accuracy<br>
-**K Nearest Neighbours:** % accuracy<br>
+**K Nearest Neighbours:** 0.88 accuracy<br>
  
