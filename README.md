@@ -31,7 +31,7 @@ Input variables:
 - poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 
 ## Target variable:
-y - has the client subscribed a term deposit? (binary: 'yes', 'no')
+y - has the client subscribed a term deposit? (binary: 'yes','no')
 
 ## <a name="Results"></a> Results 
 
