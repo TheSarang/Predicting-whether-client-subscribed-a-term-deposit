@@ -16,7 +16,7 @@ Input variables:
 - education (categorical: 'high school','professional course','university degree','unknown')
 - default: has credit in default? (categorical: 'no','yes','unknown')
 - housing: has housing loan? (categorical: 'no','yes','unknown')
-- loan: has personal loan? (categorical: 'no','yes','unknown')
+- loan: has personal loan? (categorical: 'no', 'yes', 'unknown')
 
 ## Related with the last contact of the current campaign:
 - contact: contact communication type (categorical: 'cellular','telephone') 
