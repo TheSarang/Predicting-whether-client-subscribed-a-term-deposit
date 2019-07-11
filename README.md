@@ -11,7 +11,7 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 Input variables:
 ## Bank client data:
 - age (numeric)
-- job : type of job (categorical: 'admin','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student', 'technician','unemployed','unknown')
+- job : type of job (categorical: 'admin','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
 - marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
 - education (categorical: 'high school','professional course','university degree','unknown')
 - default: has credit in default? (categorical: 'no','yes','unknown')
