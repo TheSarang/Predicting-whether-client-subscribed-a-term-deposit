@@ -28,7 +28,7 @@ Input variables:
 - campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
 - pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
 - previous: number of contacts performed before this campaign and for this client (numeric)
-- poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
+- poutcome: outcome of the previous marketing campaign (categorical: 'failure', 'nonexistent', 'success')
 
 ## Target variable:
 y - has the client subscribed a term deposit? (binary: 'yes','no')
