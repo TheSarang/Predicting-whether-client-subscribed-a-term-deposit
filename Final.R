@@ -225,13 +225,10 @@ normalize <- function(x) {
   return ((x - min(x)) / (max(x) - min(x))) }
 
 bankData_n <- as.data.frame(lapply(bankData[1:ncol(bankData)], normalize))
-
 sapply(bankData, class)
-
 dim(bankData_n)
 
 library(class)
-
 # Splitting the data
 knn_train <- bankData_n[1:bound,]
 knn_test <- bankData_n[(bound+1):nrow(bankData_n),]
